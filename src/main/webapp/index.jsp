@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
+<!-- 깃 허브 확인 -->
+
 <%
 response.sendRedirect("login.do");
 %>
